@@ -1,0 +1,14 @@
+{
+  "name": "feedbackdemowithexceljs",
+  "version": "1.0.0",
+  "description": "feedback save inxlsx",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ankit joshi",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.0.1"
+  }
+}
